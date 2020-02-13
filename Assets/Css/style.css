@@ -1,0 +1,17 @@
+/* mise en place background image */
+body{
+    height: 100vh;
+    background-image: url(/Assets/Images/bg/fond.png);
+    background-size: cover;
+}
+
+/* taille des icones */
+
+.icone{
+    font-size: 25px;
+}
+
+.fas.fa-bars{
+color: white;
+font-size: 30px;
+}
